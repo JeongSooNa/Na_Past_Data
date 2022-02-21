@@ -5,3 +5,6 @@
 > 년도
 - Gota River near Sjotop-Vannersburg, Sweden, 1807-1957
 > 해마다 방류되는 물의 양
+
+![img](./img/data.png)      
+![img](./img/time_series.png)
